@@ -9,7 +9,8 @@ export const SDK_SETTINGS = {
     STAGE_HOST:             ('data-stage-host' : 'data-stage-host'),
     API_STAGE_HOST:         ('data-api-stage-host' : 'data-api-stage-host'),
     CSP_NONCE:              ('data-csp-nonce' : 'data-csp-nonce'),
-    ENABLE_3DS:             ('data-enable-3ds' : 'data-enable-3ds')
+    ENABLE_3DS:             ('data-enable-3ds' : 'data-enable-3ds'),
+    BUTTON_SOURCE:          ('data-button-source' : 'data-button-source')
 };
 
 export const SDK_QUERY_KEYS = {
